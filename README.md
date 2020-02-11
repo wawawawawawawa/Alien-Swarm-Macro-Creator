@@ -7,3 +7,5 @@ You only need to download the [Alien Swarm - Macro Creator.ahk](https://raw.gith
 It will look like this :
 
 ![Macro Creator](https://i.imgur.com/Cek3NCM.png)
+
+Just copy paste the text inside "Result Bind Command :" into either the autoexec.cfg or in developper console to make your bind
